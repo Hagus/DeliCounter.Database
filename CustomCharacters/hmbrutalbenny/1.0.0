@@ -1,0 +1,15 @@
+{
+  "Name": "Hotdog Miami: Brutal Benny",
+  "VersionNumber": "1.0.0",
+  "Description": "Use an arsenal of iconic action movie arms to carve through a legion of varied and dangerous enemies. All of the holds are timed and don't have any targets. Designed for limited ammo.",
+  "ShortDescription": "Hotline based character with no ammo points.",
+  "Authors": ["Hagus"],
+  "IconUrl": "https://i.imgur.com/9p8eIs3.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/442/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NTE2ZTE4ODRkY2Y3ZDQ2NCszMTc5KzE1OTM=",
+  "InstallationSteps": ["extract $GAME_DIR\\deli\\mods"],
+  "Dependencies": {
+    "Deli": "^0.3.0",
+    "TNHTweaker": "^1.6.0"
+  }
+}
